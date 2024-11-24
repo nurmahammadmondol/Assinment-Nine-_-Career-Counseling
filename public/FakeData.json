@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/YXK9MHw/free-career-guidance.jpg",
+    "serviceName": "Career Counseling Sessions",
+    "category": "Online",
+    "description": "Gain clarity on your career goals through personalized sessions with expert counselors. These sessions will help you assess your skills, explore career options, and craft a roadmap to achieve success. Whether you're starting fresh or seeking a career change, our guidance ensures you make well-informed decisions to align with your aspirations.",
+    "price": "$100",
+    "duration": "05-12-24 5:00 PM - 6:00 PM",
+    "counselor": "John Doe",
+    "rating": 4.8,
+    "learnMoreLink": "/services/career-counseling"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/Z6bMyym/Resume-Writing.jpg",
+    "serviceName": "Resume Review",
+    "category": "Offline",
+    "description": "Ensure your resume stands out with a detailed review from professionals. We focus on optimizing structure, highlighting achievements, and tailoring it to match industry expectations. Whether you're applying for your first job or advancing in your career, a polished resume increases your chances of capturing the recruiter’s attention effectively.",
+    "price": "$50",
+    "duration": "06-12-24 2:00 PM - 3:00 PM",
+    "counselor": "Jane Smith",
+    "rating": 4.5,
+    "learnMoreLink": "/services/resume-review"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/YfSZ8vS/Interview-Preparation.png",
+    "serviceName": "Interview Preparation",
+    "category": "Group",
+    "description": "Boost your confidence and ace interviews with our expert guidance. Through mock sessions, practical tips, and constructive feedback, we help you master communication, body language, and question responses. Our goal is to prepare you for various interview scenarios, ensuring you leave a lasting impression on potential employers.",
+    "price": "$80",
+    "duration": "07-12-24 4:00 PM - 5:30 PM",
+    "counselor": "Michael Johnson",
+    "rating": 4.7,
+    "learnMoreLink": "/services/interview-prep"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/6WnKFy7/Skills-Assessment-Validity.jpg",
+    "serviceName": "Skill Assessment Test",
+    "category": "Online",
+    "description": "Understand your professional strengths and areas for improvement through in-depth skill assessments. These tests help align your abilities with your desired career path. Our assessments are tailored to identify gaps and provide actionable feedback, empowering you to focus on skill enhancement and align with job market demands.",
+    "price": "$60",
+    "duration": "08-12-24 11:00 AM - 12:00 PM",
+    "counselor": "Emily Davis",
+    "rating": 4.6,
+    "learnMoreLink": "/services/skill-assessment"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/N77Q8s0/Career-Mentorship.png",
+    "serviceName": "One-on-One Career Mentorship",
+    "category": "Online",
+    "description": "Receive personalized guidance from experienced mentors who understand industry dynamics. This one-on-one mentorship helps you navigate career challenges, build strategies, and stay motivated. Whether you're setting goals or tackling obstacles, our mentors provide insights, practical advice, and the encouragement needed to succeed in your professional journey.",
+    "price": "$120",
+    "duration": "09-12-24 3:00 PM - 4:30 PM",
+    "counselor": "William Brown",
+    "rating": 4.9,
+    "learnMoreLink": "/services/career-mentorship"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/tx9CWQC/Job-Search-Assistance.jpg",
+    "serviceName": "Job Search Assistance",
+    "category": "Offline",
+    "description": "Simplify your job search with our strategic assistance. From crafting effective applications to optimizing your job search strategies, we help you find opportunities that align with your skills and career objectives. Our expert guidance ensures your job search is focused, efficient, and more likely to lead to success.",
+    "price": "$70",
+    "duration": "10-12-24 10:00 AM - 11:30 AM",
+    "counselor": "Sarah Wilson",
+    "rating": 4.4,
+    "learnMoreLink": "/services/job-search"
+  }
+]
